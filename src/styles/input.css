@@ -3,3 +3,5 @@
 @tailwind utilities;
 
 @import 'flowbite';
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Karma:wght@300;400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Suranna&display=swap');
+/* @import '../node_modules/flowbite/dist/flowbite.min.js'; */

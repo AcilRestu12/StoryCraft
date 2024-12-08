@@ -3,9 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@craco/craco": "^7.1.0",
+    "@craco/craco": "^5.9.0",
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
+    "flowbite": "^2.5.2",
     "flowbite-react": "^0.10.2",
     "openai": "^4.76.0",
     "react": "^19.0.0",
@@ -41,7 +42,6 @@
     "autoprefixer": "^10.4.20",
     "dotenv-webpack": "^8.1.0",
     "postcss": "^8.4.49",
-    "tailwindcss": "^3.4.16",
-    "webpack": "^5.97.1"
+    "tailwindcss": "^3.4.16"
   }
 }
