@@ -133,42 +133,6 @@ function App() {
 					© 2024 <a href="https://arest.tech/" target="_blank" class="text-fourth font-bold hover:text-white hover:underline">ARrest</a>. All Rights Reserved.
 				</span>
 			</footer>
-			
-			{/* <h1>Short Story Generator</h1>
-			
-			<div className="controls flex flex-col">
-				<select value={genre} onChange={(e) => setGenre(e.target.value)}>
-					<option value="Fantasy">Fantasy</option>
-					<option value="Sci-Fi">Sci-Fi</option>
-					<option value="Mystery">Mystery</option>
-					<option value="Adventure">Adventure</option>
-					<option value="Romance">Romance</option>
-				</select>
-		
-				<input
-					type="range"
-					min="100"
-					max="500"
-					value={wordCount}
-					onChange={(e) => setWordCount(e.target.value)}
-				/>
-				<span>{wordCount} words</span>
-		
-				<button type="button" onClick={handleGenerateStory} disabled={isLoading} class="focus:outline-none text-white bg-yellow-400 hover:bg-yellow-500 focus:ring-4 focus:ring-yellow-300 font-medium rounded-lg text-sm px-5 py-2.5 me-2 mb-2 focus:ring-yellow-900">
-					{isLoading ? "Generating..." : "Generate Story"}
-				</button>
-			</div>
-		
-			
-			{story && (
-				<div className="story-output">
-					<p>{story}</p>
-					<button onClick={handleCopyToClipboard}>Copy Story</button>
-				</div>
-			)}
-			{error && <p className="error">{error}</p>} */}
-
-			
 		</div>
 	);
 }
