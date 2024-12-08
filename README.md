@@ -71,3 +71,6 @@ Contributions are welcome! If you’d like to contribute, please fork this repos
 ## Contact
 If you want to contact me, you can reach me through [ARest](https://arest.tech/).
 
+
+## License
+The project is licensed under the MIT license - see the [LICENSE](LICENSE) file for more details.
